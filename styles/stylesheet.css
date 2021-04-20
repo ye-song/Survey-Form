@@ -38,7 +38,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),*/
-  background-image: url(https://wallpaperaccess.com/full/3047899.jpg);
+  background-image: url(../images/coffee-background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
